@@ -1,0 +1,12 @@
+16. Laravel 8 Authentication install
+2:30
+Adatbázis
+Jetsream letöltése
+C:\xampp\htdocs\laravel8\basic>composer require laravel/jetstream
+3:20
+Jetstream telepítese
+C:\xampp\htdocs\laravel8\basic>php artisan jetstream:install livewire
+kövi lépés
+npm install && npm run dev
+php artisan migrate
+
